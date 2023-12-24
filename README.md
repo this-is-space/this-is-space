@@ -26,14 +26,17 @@
 
 
 ### 🧰 Languages and Tools
- <img style = "inline-size: 600px;
-  overflow-wrap: break-word;" src="https://skillicons.dev/icons?i=html,js,css,react,nextjs,mongo,postman,figma,remix,vscode,vercel,mysql,linux,python,c,cpp" />
+<img src="https://skillicons.dev/icons?i=html,js,css,react,nextjs,mongo" />
+ <br/>
+<img src="https://skillicons.dev/icons?i=postman,figma,remix,vscode,vercel" />
+ <br/>
+<img src="https://skillicons.dev/icons?i=linux,python,c,cpp" />
+
 <br/>
 <br/>
 
-
-<img aling="left" alt="top lang" style="border-radius: 3px;" width = "200px" src="https://reame-stats.vercel.app/api/top-langs?username=this-is-space&count-private=true&theme=onedark&show_icons=true"/>
-<img aling="left" alt="top lang" style="border-radius: 3px;" width = "400px" src="https://reame-stats.vercel.app/api?username=this-is-space&show_icons=true&theme=dracula&count-private=true"/>
+<img aling="left" alt="top lang" style="border-radius: 3px;" width = "160px" src="https://reame-stats.vercel.app/api/top-langs?username=this-is-space&count-private=true&theme=onedark&show_icons=true"/>
+<img aling="left" alt="top lang" style="border-radius: 3px;" width = "400px" src="https://reame-stats.vercel.app/api?username=this-is-space&show_icons=true&theme=dracula&"/>
 
 
 
